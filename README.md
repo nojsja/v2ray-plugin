@@ -8,8 +8,8 @@
 
 ## Build
 
-* env prepare - go1.16.14
-* `go build`
+* Env prepare - go1.16.14
+* Run `go build`
 * Alternatively, you can grab the latest nightly from Circle CI by logging into Circle CI or adding `#artifacts` at the end of URL like such: https://circleci.com/gh/shadowsocks/v2ray-plugin/20#artifacts
 
 ## Usage
